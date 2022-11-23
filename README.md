@@ -2,7 +2,7 @@
 
 ## Блок схема алгоритма
 
-![diagram](./diagram.png)
+![diagram](https://disk.yandex.ru/client/disk/diagram?idApp=client&dialog=slider&idDialog=%2Fdisk%2Fdiagram%2Fdiagram.PNG)
 
 ## Описание решения
 
